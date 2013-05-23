@@ -9,4 +9,6 @@ $connect = mysql_connect($database['host'] , $database['username'] , $database['
 mysql_set_charset('utf8'); 
 mysql_select_db($database['name']);
 
+include("function.php");
+
 ?>

@@ -1,6 +1,6 @@
-<?php include("header.php"); ?>
+<?php include("config.php");?>
+<?php createheader("new"); ?>
 <?php createmenu("new"); ?>
-			</header>
 			<section id="content">
 				<div class="padding">
 					<div class="wrapper p4">

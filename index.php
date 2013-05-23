@@ -1,4 +1,5 @@
-<?php include("header.php"); ?>
+<?php include("config.php");?>
+<?php createheader("index"); ?>
 <?php createmenu("index"); ?>
 				<div class="row-3">
 					<div class="slider-wrapper">
@@ -32,5 +33,4 @@
 						</div>
 					</div>
 				</div>
-			</header>
 <?php include("footer.php"); ?>
