@@ -19,8 +19,7 @@
 													<figure class="img-indent3">
 													<a href="viewalbum.php?id=' . $row[0] . '"><img src="upload/images/' . $row1[0] . '" alt="" width="154" height="206" /></a></figure>
 													<div class="extra-wrap">
-														<h6><font color="#FF0000" size="2"><b>Hình ảnh cá nhân</b></font></h6>
-														Năm 2012.
+														<h6><font color="#FF0000" size="2"><b>' . $row[1] . '</b></font></h6>
 													</div>
 												</div>
 											</div>';
@@ -32,8 +31,7 @@
 													<figure class="img-indent4">
 													<a href="viewalbum.php?id=' . $row[0] . '"><img src="upload/images/' . $row1[0] . '" alt="" width="154" height="197" /></a></figure>
 													<div class="extra-wrap">
-														<h6><b><font size="2" color="#FF0000">Hát cho trẻ em nhân ngày 01/06</font></b></h6>
-														Tháng 7 năm 2012.
+														<h6><b><font size="2" color="#FF0000">' . $row[1] . '</font></b></h6>
 													</div>
 												</div>
 											</div>';
