@@ -2,7 +2,7 @@
 
 $database['host'] = 'localhost';
 $database['username'] = 'root';
-$database['password'] = 'giaminh261293';
+$database['password'] = '';
 $database['name'] = 'casi';
 
 $connect = mysql_connect($database['host'] , $database['username'] , $database['password']);

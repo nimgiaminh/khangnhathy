@@ -61,8 +61,8 @@ if($page == 'album'){
 			<header>
 				<div class="row-1">
 					<h1>
-						<a href="index.php"><img border="0" src="images/logo.PNG" width="288" height="41"></a>
-						<strong class="slog">http://khangnhathy.com</strong>
+						<a href="index.php" class="logotext">CA SỸ - NGƯỜI MẪU : KHANG NHÃ THY</a>
+						<strong class="slog">http://www.khangnhathy.com</strong>
 					</h1>
 					<form id="search-form" action="" method="post" enctype="multipart/form-data">
 						<fieldset>

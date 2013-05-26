@@ -5,7 +5,7 @@
 					<div class="slider-wrapper">
 						<div class="slider">
 						  <ul class="items">
-							<li><img src="images/slider-img1.PNG" alt="">
+							<li><img src="images/slide/1.jpg" alt="">
 								<strong class="banner">
 									<strong class="b1"></strong>
 									<strong class="b2"></strong>
@@ -13,14 +13,49 @@
 							</strong>
 								</strong>
 							</li>
-							<li><img src="images/slider-img2.PNG" alt="">
+							<li><img src="images/slide/2.jpg" alt="">
 								<strong class="banner">
 									<strong class="b1"></strong>
 									<strong class="b2"></strong>
 									<strong class="b3"><br></strong>
 								</strong>
 							</li>
-							<li><img src="images/slider-img3.jpg" alt="">
+							<li><img src="images/slide/3.jpg" alt="">
+								<strong class="banner">
+									<strong class="b1"></strong>
+									<strong class="b2"></strong>
+									<strong class="b3"></strong>
+								</strong>
+							</li>
+							<li><img src="images/slide/4.jpg" alt="">
+								<strong class="banner">
+									<strong class="b1"></strong>
+									<strong class="b2"></strong>
+									<strong class="b3"></strong>
+								</strong>
+							</li>
+							<li><img src="images/slide/5.jpg" alt="">
+								<strong class="banner">
+									<strong class="b1"></strong>
+									<strong class="b2"></strong>
+									<strong class="b3"></strong>
+								</strong>
+							</li>
+							<li><img src="images/slide/6.jpg" alt="">
+								<strong class="banner">
+									<strong class="b1"></strong>
+									<strong class="b2"></strong>
+									<strong class="b3"></strong>
+								</strong>
+							</li>
+							<li><img src="images/slide/7.jpg" alt="">
+								<strong class="banner">
+									<strong class="b1"></strong>
+									<strong class="b2"></strong>
+									<strong class="b3"></strong>
+								</strong>
+							</li>
+							<li><img src="images/slide/8.jpg" alt="">
 								<strong class="banner">
 									<strong class="b1"></strong>
 									<strong class="b2"></strong>

@@ -1,21 +1,8 @@
 ﻿			<footer>
-				<div class="row-top">
-					<div class="row-padding">
-						<div class="wrapper">	
-							<div class="col-4">
-								<div class="indent3">
-									<strong class="footer-logo">khangnhathy.com<strong>Fan club</strong></strong>
-									<strong class="phone"><strong>Studio & Media</strong> 
-									</strong>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
 				<div class="row-bot">
 					<div class="aligncenter">
-						<p class="p0">Khang Nhã Thy Studio</p>
-						Provided 2012 - Website đang hoàn thiện<br>
+						<p class="p0">Copyright: ca sỹ - siêu mẫu Khang Nhã Thy</p>
+						Sản phẩm của: <a href="http://www.dichvumoinoi.com">www.dichvumoinoi.com</a><br>
 						<!-- {%FOOTER_LINK} -->
 					</div>
 				</div>

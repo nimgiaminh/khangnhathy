@@ -51,6 +51,7 @@ p {margin-bottom:18px}
 .prev-indent-bot {margin-bottom:10px}
 .buttons a:hover {cursor:pointer}
 .menu li a, .list-1 li a, .button-2, .logo {text-decoration:none}
+a.logotext{text-decoration: none;color: white;line-height: 1;font-size: 25px;}
 /* header */
 header {width:100%;margin-bottom:-16px;position:relative;z-index:1}
 .row-1 {width:100%;height:113px;overflow:hidden;padding-top:24px}
